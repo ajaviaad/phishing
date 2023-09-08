@@ -1,2 +1,2 @@
 # phishing
-A detailed presentation on how phishing works along explanation of all Tactics and Techniques
+This repository contains a comprehensive presentation that delves deep into the world of phishing. It outlines the underlying mechanisms of how phishing campaigns are executed and sheds light on the various tactics and techniques leveraged by attackers. For anyone aiming to understand phishing beyond the surface level, this presentation serves as a valuable resource, offering detailed insights and explanations.
